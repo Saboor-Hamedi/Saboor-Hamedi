@@ -23,7 +23,7 @@
 
 ### Able to work with languages:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][laravel]
+[<img align="left" alt="HTML5" width="26px" src="![image](https://user-images.githubusercontent.com/37004821/132941604-7823d86e-5c68-433b-b1c0-042b49089cf7.png)" />][laravel]
 
 
 [website]: https://uiii.ac.id/
