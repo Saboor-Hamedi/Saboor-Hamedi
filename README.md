@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Father, Developer!!
 
-- 🔭 I just start master degree at: [a link] (https://uiii.ac.id/)[website]
+- 🔭 I just start master degree at: [UIII](https://uiii.ac.id/)[website]
 - 🌱 I’m currently Larave, PHP, PDO, SQL, JQuery, JS  🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
