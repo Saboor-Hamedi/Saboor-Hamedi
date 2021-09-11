@@ -5,7 +5,7 @@
 ## I'm a Husband, Father, Developer!!
 
 - 🔭 I just start master degree at: [UIII][website]
-- 🌱 I’m currently Larave, PHP, PDO, SQL, JQuery, JS  🤣
+- 🌱 I’m currently working with Laravel, PHP, PDO, SQL, JQuery, JS, python
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code all days
@@ -30,7 +30,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" />][jquery]
 [<img align="left" alt="HTML5" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />][mysql]
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941866-3cba3e72-777d-44ea-b591-e17def955344.png" />][sql]
-
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941920-711b23b2-2f5b-41d4-b9c8-e2e7078f9607.png" />][python]
 
 
 
@@ -52,3 +52,4 @@
 [jquery]: https://api.jquery.com/
 [mysql]: https://dev.mysql.com/doc/
 [sql]: https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
+[python]: https://docs.python.org/3/
