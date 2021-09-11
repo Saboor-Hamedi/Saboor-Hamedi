@@ -1,10 +1,10 @@
-### Hi there, I'm Sboor - [YouTube](https://www.youtube.com/channel/UC3IpKT--89eZFoELNkXrghQ) 👋
+### Hi there, I'm Sboor - [YouTube][youtube] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SaboorJanHamedi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SaboorJanHamedi)
 
 ## I'm a Husband, Father, Developer!!
 
-- 🔭 I just start master degree at: [UIII](https://uiii.ac.id/)[website]
+- 🔭 I just start master degree at: [UIII][website]
 - 🌱 I’m currently Larave, PHP, PDO, SQL, JQuery, JS  🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -93,10 +93,10 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://uiii.ac.id/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UC3IpKT--89eZFoELNkXrghQ
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
