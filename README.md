@@ -21,11 +21,11 @@
 <br />
 <hr />
 
-### Able to work with languages:
+### Able to work with:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941682-3b544b07-3f7c-481c-9284-bd1364f8a20a.png" />][css]
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941604-7823d86e-5c68-433b-b1c0-042b49089cf7.png" />][laravel]
-
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941707-3dae440f-dd47-4854-b5ca-300e139c006c.png" />][php]
 [website]: https://uiii.ac.id/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/SaboorJanHamedi
@@ -35,3 +35,4 @@
 [HTML]: https://www.w3schools.com/html/html_intro.asp
 [css]: https://devdocs.io/css/
 [laravel]: https://laravel.com/
+[php]: https://www.php.net/docs.php
