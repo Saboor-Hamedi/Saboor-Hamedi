@@ -23,8 +23,8 @@
 
 ### Able to work with languages:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941682-3b544b07-3f7c-481c-9284-bd1364f8a20a.png" />][css]
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941604-7823d86e-5c68-433b-b1c0-042b49089cf7.png" />][laravel]
-
 
 [website]: https://uiii.ac.id/
 [course]: http://vsCodeHero.com
@@ -33,4 +33,5 @@
 [instagram]: https://www.instagram.com/hamedisaboor/
 [linkedin]: https://www.linkedin.com/in/saboor-hamedi-51a167158/
 [HTML]: https://www.w3schools.com/html/html_intro.asp
+[css]: https://devdocs.io/css/
 [laravel]: https://laravel.com/
