@@ -1,7 +1,6 @@
 ### Hi there, I'm Sboor - [YouTube](https://www.youtube.com/channel/UC3IpKT--89eZFoELNkXrghQ) 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SaboorJanHamedi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SaboorJanHamedi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SaboorJanHamedi)
 
 ## I'm a Husband, Father, Developer!!
 
