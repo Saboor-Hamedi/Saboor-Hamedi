@@ -21,9 +21,9 @@
 <br />
 <hr />
 
-### Languages and Tools:
+### Able to work with languages:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
-
+[<img align="left" alt="HTML5" width="26px" src="![image](https://user-images.githubusercontent.com/37004821/132941407-17c737d5-560f-48be-a79f-360d21744eb1.png)" />][laravel]
 [website]: https://uiii.ac.id/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/SaboorJanHamedi
@@ -31,3 +31,4 @@
 [instagram]: https://www.instagram.com/hamedisaboor/
 [linkedin]: https://www.linkedin.com/in/saboor-hamedi-51a167158/
 [HTML]: https://www.w3schools.com/html/html_intro.asp
+[laravel]: https://laravel.com/
