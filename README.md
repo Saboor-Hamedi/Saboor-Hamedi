@@ -22,9 +22,7 @@
 <hr />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" 
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img src="![image](https://user-images.githubusercontent.com/37004821/132941190-a8ec1b4a-5db8-479f-b56a-1c18251b59b5.png)">]['HTML']
 
 [website]: https://uiii.ac.id/
 [course]: http://vsCodeHero.com
@@ -32,3 +30,4 @@
 [youtube]: https://www.youtube.com/channel/UC3IpKT--89eZFoELNkXrghQ
 [instagram]: https://www.instagram.com/hamedisaboor/
 [linkedin]: https://www.linkedin.com/in/saboor-hamedi-51a167158/
+['HTML']: https://www.w3schools.com/html/html_intro.asp
