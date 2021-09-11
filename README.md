@@ -26,6 +26,9 @@
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941682-3b544b07-3f7c-481c-9284-bd1364f8a20a.png" />][css]
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941604-7823d86e-5c68-433b-b1c0-042b49089cf7.png" />][laravel]
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941707-3dae440f-dd47-4854-b5ca-300e139c006c.png" />][php]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941756-2535d689-bc82-471b-90f8-d95869c7faef.png" />][js]
+
+
 [website]: https://uiii.ac.id/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/SaboorJanHamedi
@@ -36,3 +39,4 @@
 [css]: https://devdocs.io/css/
 [laravel]: https://laravel.com/
 [php]: https://www.php.net/docs.php
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
