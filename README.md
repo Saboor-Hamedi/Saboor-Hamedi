@@ -27,6 +27,15 @@
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941604-7823d86e-5c68-433b-b1c0-042b49089cf7.png" />][laravel]
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941707-3dae440f-dd47-4854-b5ca-300e139c006c.png" />][php]
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941756-2535d689-bc82-471b-90f8-d95869c7faef.png" />][js]
+[<img align="left" alt="HTML5" width="26px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" />][jquery]
+[<img align="left" alt="HTML5" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />][mysql]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941866-3cba3e72-777d-44ea-b591-e17def955344.png" />][sql]
+
+
+
+
+
+
 
 
 [website]: https://uiii.ac.id/
@@ -40,3 +49,6 @@
 [laravel]: https://laravel.com/
 [php]: https://www.php.net/docs.php
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[jquery]: https://api.jquery.com/
+[mysql]: https://dev.mysql.com/doc/
+[sql]: https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
