@@ -30,4 +30,4 @@
 [youtube]: https://www.youtube.com/channel/UC3IpKT--89eZFoELNkXrghQ
 [instagram]: https://www.instagram.com/hamedisaboor/
 [linkedin]: https://www.linkedin.com/in/saboor-hamedi-51a167158/
-['HTML']: https://www.w3schools.com/html/html_intro.asp
+[HTML]: https://www.w3schools.com/html/html_intro.asp
