@@ -17,8 +17,9 @@
 [<img align="left" alt="no image found | LinkedIn"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="no image found | Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<hr />
+
 <br />
+<hr />
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" 
