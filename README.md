@@ -31,4 +31,4 @@
 [instagram]: https://www.instagram.com/hamedisaboor/
 [linkedin]: https://www.linkedin.com/in/saboor-hamedi-51a167158/
 [HTML]: https://www.w3schools.com/html/html_intro.asp
-[laravel]: https://laravel.com/
+[laravel]: https://laravel.com
