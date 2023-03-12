@@ -2,7 +2,7 @@
 ###### I am an ordinary person 😊
 <span>
   <p>
-      I have a computer science background more especifically Information System, I have aquired my Bachelor Degree from  UIN Syarif Hidayatullah Jakarta Official           Website: [UIII][uinjkt]
+      I have a computer science background more specifically Information System, I have aquired my Bachelor Degree from  UIN Syarif Hidayatullah Jakarta Official             <a href="https://www.uinjkt.ac.id/" target="blank">UIN JKT</a> in 25th, February 2021, and I have continued my Master's Degree at Indonesian International      Islamic University <a href="https://uiii.ac.id/" target="blank">IIIU.</a>
      
   </p>
   </span>
@@ -52,7 +52,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />][mysql]
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941866-3cba3e72-777d-44ea-b591-e17def955344.png" />][sql]
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941920-711b23b2-2f5b-41d4-b9c8-e2e7078f9607.png" />][python]
-<a href="[uinjkt]" target="blank">UIN JKT</a>
+
 
 
 
@@ -73,4 +73,4 @@
 [sql]: https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
 [python]: https://docs.python.org/3/
 [website]: https://www.uinjkt.ac.id/
-[uinjkt]:(https://www.uinjkt.ac.id/)
+
