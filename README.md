@@ -2,7 +2,8 @@
 ###### I am an ordinary person 😊
 <span>
   <p>
-      I have a computer science background more especifically Information System, I have aquired my Bachelor Degree from  UIN Syarif Hidayatullah Jakarta Official           Website [UIN JKT][uinjkt]  
+      I have a computer science background more especifically Information System, I have aquired my Bachelor Degree from  UIN Syarif Hidayatullah Jakarta Official           Website <a href="[https://www.uinjkt.ac.id/]" target="blank">UIN JKT</a>
+     
   </p>
   </span>
 
@@ -71,4 +72,5 @@
 [mysql]: https://dev.mysql.com/doc/
 [sql]: https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
 [python]: https://docs.python.org/3/
-[uinjkt]: (https://www.uinjkt.ac.id/)
+[website]: https://www.uinjkt.ac.id/
+
