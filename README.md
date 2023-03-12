@@ -7,12 +7,14 @@
 </div>
   <hr id="header" align="center">
   
-<div id="header" align="center">
-       <iframe src="https://giphy.com/embed/IcZhFmufozDCij3p22" width="480" height="415" frameBorder="0" class="giphy-embed" allowFullScreen>
-       </iframe>
+  <iframe src="https://giphy.com/embed/IcZhFmufozDCij3p22" width="480" height="415" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+         </iframe>
           <p>
-            <a href="https://giphy.com/gifs/cpu-circuit-board-circuitboard-IcZhFmufozDCij3p22">via GIPHY</a>
+              <a href="https://giphy.com/gifs/cpu-circuit-board-circuitboard-IcZhFmufozDCij3p22">via GIPHY</a>
           </p>
+<div id="header" align="center">
+         
  </div>
 
 
