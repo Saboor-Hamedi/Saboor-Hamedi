@@ -33,7 +33,6 @@
 
 ### Connect with me:
 [<img align="left" alt="no image found | YouTube"    width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="no image found | Twitter"    width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="no image found | LinkedIn"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="no image found | Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="no image found | twitter"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -60,7 +59,6 @@
 
 [website]: https://uiii.ac.id/
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/SaboorJanHamedi
 [youtube]: https://www.youtube.com/channel/UC3IpKT--89eZFoELNkXrghQ
 [instagram]: https://www.instagram.com/hamedisaboor/
 [linkedin]: https://www.linkedin.com/in/saboor-hamedi-51a167158/
