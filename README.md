@@ -2,7 +2,9 @@
 ###### I am an ordinary person 😊
 <span>
   <p>
-      I have a computer science background more especifically Information System, I have aquired my Bachelor Degree from [uinjkt][website]
+      I have a computer science background more especifically Information System, I have aquired my Bachelor Degree from  [uinjkt][website]
+    
+    [UIII][website]
   </p>
   </span>
 
