@@ -2,9 +2,8 @@
 ###### I am an ordinary person 😊
 <span>
   <p>
-      I have a computer science background more especifically Information System, I have aquired my Bachelor Degree from  [uinjkt][website]
+      I have a computer science background more especifically Information System, I have aquired my Bachelor Degree from  UIN Syarif Hidayatullah Jakarta Official Website [UIN JKT][website]
     
-    [UIII][website]
   </p>
   </span>
 
