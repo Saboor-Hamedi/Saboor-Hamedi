@@ -1,5 +1,11 @@
 ### Hi there, I'm Sboor - [YouTube][youtube] 👋
 ###### I am an ordinary person 😊
+<span>
+  <p>
+    I have a computer science background more especifically Information System, I have aquired my Bachelor Degree from [uinjik][UIN JKT]
+  </p>
+  </span>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -50,6 +56,7 @@
 
 
 [website]: https://uiii.ac.id/
+[uinjkt]: https://www.uinjkt.ac.id/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/SaboorJanHamedi
 [youtube]: https://www.youtube.com/channel/UC3IpKT--89eZFoELNkXrghQ
