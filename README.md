@@ -9,7 +9,7 @@
   
 
 <div id="header" align="center">
-         banner
+        [<img align="center" alt="not animation found"] src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" />][banner]
  </div>
 
 
