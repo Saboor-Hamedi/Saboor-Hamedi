@@ -14,7 +14,7 @@
               <a href="https://giphy.com/gifs/cpu-circuit-board-circuitboard-IcZhFmufozDCij3p22">via GIPHY</a>
           </p>
 <div id="header" align="center">
-         
+         banner
  </div>
 
 
@@ -35,7 +35,7 @@
 [<img align="left" alt="no image found | Twitter"    width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="no image found | LinkedIn"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="no image found | Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="center" alt="not animation found"] src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" />][banner]
 
 <br />
 <hr />
