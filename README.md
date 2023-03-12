@@ -8,8 +8,11 @@
   <hr id="header" align="center">
   
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/IcZhFmufozDCij3p22" width="480" height="415" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a           href="https://giphy.com/gifs/cpu-circuit-board-circuitboard-IcZhFmufozDCij3p22">via GIPHY</a></p>
-  
+       <iframe src="https://giphy.com/embed/IcZhFmufozDCij3p22" width="480" height="415" frameBorder="0" class="giphy-embed" allowFullScreen>
+       </iframe>
+          <p>
+            <a href="https://giphy.com/gifs/cpu-circuit-board-circuitboard-IcZhFmufozDCij3p22">via GIPHY</a>
+          </p>
  </div>
 
 
