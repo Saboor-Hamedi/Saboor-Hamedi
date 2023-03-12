@@ -12,14 +12,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<hr id="header" align="center">
-  <div id="header" align="center">
-        [<img align="center" alt="not animation found"] src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" width="400" hight="150"/>]
- </div>
+<hr>
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM4NjgzZGFjNmM5ODM5ODg0OTkwNWFmYjU2ZTE2NGM5NmE1OTEyNSZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif" width="490" high="200"/>
+</div>
 
 <br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SaboorJanHamedi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SaboorJanHamedi)
 
 
 ## I'm a Husband, Father, Developer!!
@@ -37,7 +36,9 @@
 [<img align="left" alt="no image found | Twitter"    width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="no image found | LinkedIn"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="no image found | Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="center" alt="not animation found"] src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" />][banner]
+[<img align="left" alt="no image found | twitter"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
 
 <br />
 <hr />
@@ -63,6 +64,7 @@
 [youtube]: https://www.youtube.com/channel/UC3IpKT--89eZFoELNkXrghQ
 [instagram]: https://www.instagram.com/hamedisaboor/
 [linkedin]: https://www.linkedin.com/in/saboor-hamedi-51a167158/
+[twitter]: https://twitter.com/arsallan_
 [HTML]: https://www.w3schools.com/html/html_intro.asp
 [css]: https://devdocs.io/css/
 [laravel]: https://laravel.com/
