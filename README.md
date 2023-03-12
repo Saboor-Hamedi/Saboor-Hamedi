@@ -1,5 +1,5 @@
 ### Hi there, I'm Sboor - [YouTube][youtube] 👋
-###### Iam an ordinary person 😊
+###### I am an ordinary person 😊
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -7,10 +7,11 @@
 
 <hr id="header" align="center">
   <div id="header" align="center">
-        [<img align="center" alt="not animation found"] src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" width="600" hight="300"/>]
+        [<img align="center" alt="not animation found"] src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" width="400" hight="150"/>]
  </div>
 
 <br>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/SaboorJanHamedi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SaboorJanHamedi)
 
 
