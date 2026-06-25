@@ -1,76 +1,219 @@
-### Hi there, I'm Sboor - [YouTube][youtube] 👋
-###### I am an ordinary person 😊
-<span>
-  <p>
-      I have a computer science background more specifically Information System, I have aquired my Bachelor Degree from  UIN Syarif Hidayatullah Jakarta Official             <a href="https://www.uinjkt.ac.id/" target="blank">UIN JKT</a> in 25th, February 2021, and I have continued my Master's Degree at Indonesian International      Islamic University <a href="https://uiii.ac.id/" target="blank">IIIU.</a>
-     
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saboor%20Hamedi&fontSize=60&fontAlignY=35&animation=fadeIn" width="100%"/>
+</div>
+
+<h3 align="center">Web Developer & lifelong learner from Indonesia</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC3IpKT--89eZFoELNkXrghQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/saboor-hamedi-51a167158/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/hamedisaboor/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/arsallan_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saboor-Hamedi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Saboor-Hamedi?style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Saboor-Hamedi?style=social" alt="stars" />
+</p>
+
+---
+
+## About Me
+
+```yaml
+name: Saboor Hamedi
+located_in: Jakarta, Indonesia
+experience: 3+ years in web development
+education:
+  bachelor: "Information Systems - UIN Syarif Hidayatullah Jakarta (2021)"
+  master: "Indonesian International Islamic University (IIIU)"
+roles:
+  - Husband
+  - Father
+  - Developer
+  - Content Creator
+expertise:
+  - Backend: ["PHP", "Laravel", "Java", "Python"]
+  - Frontend: ["JavaScript", "jQuery", "HTML5", "CSS3"]
+  - Databases: ["MySQL", "PostgreSQL", "SQL Server"]
+  - Tools: ["Git", "Composer", "NPM", "Postman"]
+currently_exploring: ["Docker", "Vue.js", "React", "Linux"]
+fun_fact: "I love to code"
+motto: "Always strive to be a good servant of Allah (SWT)"
+```
+
+---
+
+## Proficiency
+
+```
+PHP / Laravel         ██████░░░░░░░░░░░░░░░░   3 yrs
+Java                  ██████░░░░░░░░░░░░░░░░   3 yrs
+JavaScript / jQuery   ████████░░░░░░░░░░░░░░   4 yrs
+Python                ████████░░░░░░░░░░░░░░   4 yrs
+MySQL / PostgreSQL    ████████░░░░░░░░░░░░░░   4 yrs
+HTML / CSS            ████████░░░░░░░░░░░░░░   4 yrs
+Git / DevOps          ████████░░░░░░░░░░░░░░   4 yrs
+Docker / Linux        ████████░░░░░░░░░░░░░░   4 yrs
+```
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saboor-Hamedi&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboor-Hamedi&layout=donut&theme=radical&border_color=7F3FBF&langs_count=8" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saboor-Hamedi&theme=radical&border=7F3FBF" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saboor-Hamedi&theme=radical&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+</p>
+
+---
+
+## Featured Projects
+
+### Lumina
+<a href="https://github.com/Saboor-Hamedi/lumina" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saboor-Hamedi&repo=lumina&theme=radical&border_color=7F3FBF&v=1" />
+</a>
+
+A lightweight note-taking desktop app with multi-tab workspace, knowledge graph, AI semantic search, and a CodeMirror 6 editor.
+
+[![Stars](https://img.shields.io/github/stars/Saboor-Hamedi/lumina?style=for-the-badge&color=gold)](https://github.com/Saboor-Hamedi/lumina/stargazers)
+[![Forks](https://img.shields.io/github/forks/Saboor-Hamedi/lumina?style=for-the-badge&color=blue)](https://github.com/Saboor-Hamedi/lumina/forks)
+[![Issues](https://img.shields.io/github/issues/Saboor-Hamedi/lumina?style=for-the-badge&color=red)](https://github.com/Saboor-Hamedi/lumina/issues)
+[![License](https://img.shields.io/github/license/Saboor-Hamedi/lumina?style=for-the-badge&color=brightgreen)](https://github.com/Saboor-Hamedi/lumina)
+
+### Lumina Notes
+<a href="https://github.com/Saboor-Hamedi/lumina-notes" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saboor-Hamedi&repo=lumina-notes&theme=radical&border_color=7F3FBF" />
+</a>
+
+A comprehensive engineering knowledge base: 400+ interconnected notes across AI/ML, system design, databases, DevOps, and more.
+
+[![Stars](https://img.shields.io/github/stars/Saboor-Hamedi/lumina-notes?style=for-the-badge&color=gold)](https://github.com/Saboor-Hamedi/lumina-notes/stargazers)
+[![Forks](https://img.shields.io/github/forks/Saboor-Hamedi/lumina-notes?style=for-the-badge&color=blue)](https://github.com/Saboor-Hamedi/lumina-notes/forks)
+[![Issues](https://img.shields.io/github/issues/Saboor-Hamedi/lumina-notes?style=for-the-badge&color=red)](https://github.com/Saboor-Hamedi/lumina-notes/issues)
+[![License](https://img.shields.io/github/license/Saboor-Hamedi/lumina-notes?style=for-the-badge&color=brightgreen)](https://github.com/Saboor-Hamedi/lumina-notes)
+
+---
+
+## Tech Stack
+
+<details open>
+  <summary><b>Frontend</b></summary>
+  <br>
+  <p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   </p>
-  </span>
+</details>
 
+<details>
+  <summary><b>Backend</b></summary>
+  <br>
+  <p align="left">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  </p>
+</details>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<details>
+  <summary><b>Databases</b></summary>
+  <br>
+  <p align="left">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  </p>
+</details>
 
-<hr>
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM4NjgzZGFjNmM5ODM5ODg0OTkwNWFmYjU2ZTE2NGM5NmE1OTEyNSZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif" width="490" high="200"/>
-</div>
+<details>
+  <summary><b>Tools</b></summary>
+  <br>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </p>
+</details>
 
-<br>
+<details>
+  <summary><b>Currently Exploring</b></summary>
+  <br>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </p>
+</details>
 
+---
 
+## Latest YouTube Videos
 
-## I'm a Husband, Father, Developer!!
+<!-- YOUTUBE:START -->
+- [Check out my YouTube channel for latest content!](https://www.youtube.com/channel/UC3IpKT--89eZFoELNkXrghQ)
+<!-- YOUTUBE:END -->
 
+---
 
-- 🔭 I just start master degree at: [UIII][website]
-- 🌱 I’m currently working with Laravel, PHP, PDO, SQL, JQuery, JS, python
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to code all days
-- 🤲 I always trying to be a good Savel of **Allah (SWT)**
+## Connect With Me
 
-### Connect with me:
-[<img align="left" alt="no image found | YouTube"    width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="no image found | LinkedIn"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="no image found | Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="no image found | twitter"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC3IpKT--89eZFoELNkXrghQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/saboor-hamedi-51a167158/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/hamedisaboor/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/arsallan_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:hamedisaboor@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Saboor-Hamedi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
+---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
 
-<br />
-<hr />
+<p align="center">
+  <i>"Always strive to be a good servant of Allah (SWT)"</i>
+</p>
 
-### Able to work with:
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
-[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941682-3b544b07-3f7c-481c-9284-bd1364f8a20a.png" />][css]
-[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941604-7823d86e-5c68-433b-b1c0-042b49089cf7.png" />][laravel]
-[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941707-3dae440f-dd47-4854-b5ca-300e139c006c.png" />][php]
-[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941756-2535d689-bc82-471b-90f8-d95869c7faef.png" />][js]
-[<img align="left" alt="HTML5" width="26px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" />][jquery]
-[<img align="left" alt="HTML5" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />][mysql]
-[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941866-3cba3e72-777d-44ea-b591-e17def955344.png" />][sql]
-[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/37004821/132941920-711b23b2-2f5b-41d4-b9c8-e2e7078f9607.png" />][python]
-
-
-
-
-
-[website]: https://uiii.ac.id/
-[course]: http://vsCodeHero.com
-[youtube]: https://www.youtube.com/channel/UC3IpKT--89eZFoELNkXrghQ
-[instagram]: https://www.instagram.com/hamedisaboor/
-[linkedin]: https://www.linkedin.com/in/saboor-hamedi-51a167158/
-[twitter]: https://twitter.com/arsallan_
-[HTML]: https://www.w3schools.com/html/html_intro.asp
-[css]: https://devdocs.io/css/
-[laravel]: https://laravel.com/
-[php]: https://www.php.net/docs.php
-[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[jquery]: https://api.jquery.com/
-[mysql]: https://dev.mysql.com/doc/
-[sql]: https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
-[python]: https://docs.python.org/3/
-[website]: https://www.uinjkt.ac.id/
-
+<p align="center">
+  <b>From <a href="https://github.com/Saboor-Hamedi" target="_blank">Saboor Hamedi</a></b>
+</p>
