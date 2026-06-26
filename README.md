@@ -70,41 +70,29 @@ Docker / Linux        ████████░░░░░░░░░░░�
 
 ## GitHub Analytics
 
-<div align="center" style="display: grid; grid-template-rows: repeat(3, auto); gap: 16px; max-width: 500px; margin: 0 auto;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(360px, 1fr)); gap: 16px; max-width: 800px; margin: 0 auto;">
   <img src="https://github-readme-stats.vercel.app/api?username=Saboor-Hamedi&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF" alt="GitHub Stats" style="width: 100%; height: auto;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboor-Hamedi&layout=compact&theme=radical&border_color=7F3FBF&langs_count=8" alt="Top Languages" style="width: 100%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saboor-Hamedi&theme=radical&border=7F3FBF" alt="GitHub Streak" style="width: 100%; height: auto;" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saboor-Hamedi&theme=radical&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" width="100%" style="max-width: 900px; height: auto;" alt="Contribution Graph"/>
-</p>
-
----
-
-## Featured Projects
-
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; max-width: 900px; margin: 0 auto;">
-  <div style="text-align: left;">
+  <div>
     <h3>Lumina</h3>
     <a href="https://github.com/Saboor-Hamedi/lumina" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saboor-Hamedi&repo=lumina&theme=radical&border_color=7F3FBF&v=1" style="width: 100%; height: auto;" />
     </a>
     <p>A lightweight note-taking desktop app with multi-tab workspace, knowledge graph, AI semantic search, and a CodeMirror 6 editor.</p>
-    <p>
+    <p style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
       <a href="https://github.com/Saboor-Hamedi/lumina/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/Saboor-Hamedi/lumina?style=for-the-badge&color=gold" /></a>
       <a href="https://github.com/Saboor-Hamedi/lumina/forks" target="_blank"><img src="https://img.shields.io/github/forks/Saboor-Hamedi/lumina?style=for-the-badge&color=blue" /></a>
       <a href="https://github.com/Saboor-Hamedi/lumina/issues" target="_blank"><img src="https://img.shields.io/github/issues/Saboor-Hamedi/lumina?style=for-the-badge&color=red" /></a>
       <a href="https://github.com/Saboor-Hamedi/lumina" target="_blank"><img src="https://img.shields.io/github/license/Saboor-Hamedi/lumina?style=for-the-badge&color=brightgreen" /></a>
     </p>
   </div>
-  <div style="text-align: left;">
+  <div>
     <h3>Lumina Notes</h3>
     <a href="https://github.com/Saboor-Hamedi/lumina-notes" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saboor-Hamedi&repo=lumina-notes&theme=radical&border_color=7F3FBF" style="width: 100%; height: auto;" />
     </a>
     <p>A comprehensive engineering knowledge base: 400+ interconnected notes across AI/ML, system design, databases, DevOps, and more.</p>
-    <p>
+    <p style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
       <a href="https://github.com/Saboor-Hamedi/lumina-notes/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/Saboor-Hamedi/lumina-notes?style=for-the-badge&color=gold" /></a>
       <a href="https://github.com/Saboor-Hamedi/lumina-notes/forks" target="_blank"><img src="https://img.shields.io/github/forks/Saboor-Hamedi/lumina-notes?style=for-the-badge&color=blue" /></a>
       <a href="https://github.com/Saboor-Hamedi/lumina-notes/issues" target="_blank"><img src="https://img.shields.io/github/issues/Saboor-Hamedi/lumina-notes?style=for-the-badge&color=red" /></a>
@@ -112,6 +100,14 @@ Docker / Linux        ████████░░░░░░░░░░░�
     </p>
   </div>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saboor-Hamedi&theme=radical&border=7F3FBF" alt="GitHub Streak" style="width: 100%; max-width: 500px; height: auto;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saboor-Hamedi&theme=radical&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" style="width: 100%; max-width: 900px; height: auto;" alt="Contribution Graph"/>
+</p>
 
 ---
 
